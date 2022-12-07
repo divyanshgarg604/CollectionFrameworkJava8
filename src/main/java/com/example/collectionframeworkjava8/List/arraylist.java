@@ -1,4 +1,4 @@
-package com.example.CollectionFrameworkJava8.list;
+package com.example.collectionframeworkjava8.List;
 
 import java.util.*;
 
